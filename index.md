@@ -1,5 +1,8 @@
 # [Trang chủ](https://ppap-1264589.github.io/interesting-solution)
 
+## Range Queries
+[1737. Range Queries and Copies](https://cses.fi/paste/2bbdf1466768ad35429e62)
+
 ## Mathematics
 [2417. Counting Coprime Pairs](https://cses.fi/paste/29428b1947b1593b42995f)
 
